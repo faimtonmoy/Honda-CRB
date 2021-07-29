@@ -1,0 +1,38 @@
+.header-background{
+    background-color: #264653;
+    height: 700px;
+    width: 100%;
+}
+.header-paragraph{
+    color: #E0E0E0;
+    font-weight: 300;
+    /* width: 300px; */
+    
+   
+}
+.header-title{
+    font-weight: 600;
+    font-size: 44px;
+    color: white;
+}
+
+.custom-button{
+    width: 168px;
+    height: 44px;
+    background-color: #E76F51;
+    border-radius: 5px;
+    color: white;
+}
+.custom-text-color{
+    color: #E76F51;
+    font-weight: 600;
+    font-size: 14px;
+}
+.custom-feature-text{
+    font-weight: 600;
+    font-size: 40px;
+    color: #000000;
+}
+.custom-gray{
+    filter: grayscale(1);
+}
