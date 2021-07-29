@@ -36,3 +36,34 @@
 .custom-gray{
     filter: grayscale(1);
 }
+.client-says{
+    font-weight: 600;
+    font-size: 48px;
+}
+.client-color{
+    color: #E76F51;
+}
+.card-image{
+    height: 150px;
+    width: 150px;
+}
+.fa-star.star-color{
+    color:#E77C40 ;
+}
+.star-border{
+    color: #E77C40;
+}
+.client-review{
+    font-size: 16px;
+    color: #6C6C6C;
+}
+.client-name{
+    font-weight: 600;
+    font-size: 14px;
+    color: #23A6F0;
+}
+.client-job{
+    font-weight: 600;
+    font-size: 14px;
+    color: #252B42;
+}
